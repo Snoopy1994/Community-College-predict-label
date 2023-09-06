@@ -7,4 +7,4 @@
 3. Finally, click predict_label.exe twice. Then, you can have a file called "predict_label.csv". It will automatically predict the label by the data you provide. 
 
 **If you need to adjuct the keywords**
-- please add new keyword by following the keywords_dic.txt file. 
+- please add new keyword by following the "keywords_dic.txt" file. 
