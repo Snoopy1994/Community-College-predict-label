@@ -1,6 +1,6 @@
 # Community-College-predict-label
 
-**There is a exe file for Windows user to use**
+**There is an exe file for Windows user to use**
 
 1. First, create a new folder and put three files: predict_label.exe, keywords_dic.txt, courses.csv into this folder.
 2. Second, Filled in the detail by following the example format including name, intro, label. Then save the file into an csv file (encoding UTF-8). **The filename must be courses.csv**
